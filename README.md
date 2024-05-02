@@ -9,7 +9,6 @@ npm install
 ```
 
 ## Usage
-<hr/>
 
 ### Dev mode
 
